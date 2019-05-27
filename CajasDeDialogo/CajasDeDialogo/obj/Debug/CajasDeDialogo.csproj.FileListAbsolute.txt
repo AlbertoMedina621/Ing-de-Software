@@ -1,0 +1,40 @@
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\bin\Debug\CajasDeDialogo.exe.config
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\bin\Debug\CajasDeDialogo.exe
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\bin\Debug\CajasDeDialogo.pdb
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.csprojAssemblyReference.cache
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.Form1.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.Properties.Resources.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.csproj.GenerateResource.cache
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.csproj.CoreCompileInputs.cache
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.exe
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.pdb
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgPalabraDePaso.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgAcercaDe.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgCasillaVerificacion.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgBotonOpcion.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgListaSimple.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgListaDesplegable.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgControlConPestañas.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgGestionFechas.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgPanelDeDiseño.resources
+C:\Users\beto1\source\repos\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgTemporizador.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\bin\Debug\CajasDeDialogo.exe.config
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\bin\Debug\CajasDeDialogo.exe
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\bin\Debug\CajasDeDialogo.pdb
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.csprojAssemblyReference.cache
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgAcercaDe.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgBotonOpcion.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgCasillaVerificacion.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgControlConPestañas.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgGestionFechas.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgListaDesplegable.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgListaSimple.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgPalabraDePaso.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgPanelDeDiseño.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.DlgTemporizador.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.Form1.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.Properties.Resources.resources
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.csproj.GenerateResource.cache
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.csproj.CoreCompileInputs.cache
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.exe
+C:\Users\beto1\Documents\Maestria 2018\2do Semestre\Tecnologias de la Programacion\Practica Dialogos y controles - Capitulo 6\CajasDeDialogo\CajasDeDialogo\obj\Debug\CajasDeDialogo.pdb
